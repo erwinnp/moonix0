@@ -4,7 +4,4 @@
 
 ### I'm junior front-end developer with UI design skill. :)
 
-<!-- ![carbon](https://github.com/moonix0/moonix0/blob/main/profile.png) -->
-
-<img align="center" alt="GIF" src="https://github.com/moonix0/moonix0/blob/main/profile.png" width="80%" />
-  
+<img align="center" src="https://github.com/moonix0/moonix0/blob/main/profile.png" width="80%" />  
