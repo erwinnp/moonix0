@@ -4,4 +4,4 @@
 
 ### I'm junior front-end developer with UI design skill. :)
 
-- 🌱 I’m currently learning Javascript Framework and CSS usch us TailwindCSS, Styled-Components, and mix it with Twin.Macro
+- 🌱 I’m currently learning Javascript Framework and CSS such us TailwindCSS, Styled-Components, and mix it with Twin.Macro
