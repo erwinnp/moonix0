@@ -6,5 +6,5 @@
 
 <!-- ![carbon](https://github.com/moonix0/moonix0/blob/main/profile.png) -->
 
-<img align="center" alt="GIF" src="https://github.com/moonix0/moonix0/blob/main/myprofile.png" width="50%" />
+<img align="center" alt="GIF" src="https://github.com/moonix0/moonix0/blob/main/profile.png" width="50%" />
   
