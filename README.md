@@ -3,3 +3,5 @@
 </p>
 
 ### I'm junior front-end developer with UI design skill. :)
+
+![carbon](https://github.com/moonix0/moonix0/blob/main/profile.png)
